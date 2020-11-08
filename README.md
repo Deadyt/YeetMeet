@@ -51,7 +51,10 @@ See [How to edit config.py](https://github.com/1337w0rm/YeetMeet/issues/3#issuec
 > Note: NOT RECOMMENDED!!!!! In one click deploy you will have to re-login every day.
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/1337w0rm/YeetMeet)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dead8309/YeetMeet)
+
+**Conventional Deploy**
+ithub.com/1337w0rm/YeetMeet)
 
 **Conventional Deploy**
 
